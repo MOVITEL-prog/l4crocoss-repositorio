@@ -4,7 +4,7 @@ Bem-vindo ao repositório oficial da L4CROCOSS!
 Aqui você pode acessar nossos eBooks, portfólios de design, pacotes criativos e mais.
 
 ## Acesso ao site
-[Acesse o site aqui](https://teunome.github.io/nomedoseurepositorio)
+[Acesse o site aqui](https://MOVITEL-prog.github.io/l4crocoss-repositorio)
 
 ## Conteúdo
 - eBooks para estudantes (Química, Física, Biologia e mais)
@@ -13,8 +13,8 @@ Aqui você pode acessar nossos eBooks, portfólios de design, pacotes criativos 
 - Pacotes personalizados para marcas
 
 ## Contato
-Entre em contato pelo WhatsApp: [link aqui]  
-Ou siga no Instagram: [@l4crocoss_design](https://instagram.com/...)
+Entre em contato pelo WhatsApp: [https://wa.me/message/WZUYD5M25EFVF1]  
+Ou siga no Instagram: [@L4_marvin_quimbine](https://www.instagram.com/l4_marvin_quimbine?igsh=NnR6dmh3ZzM5bzhm)
 
 ---
 
