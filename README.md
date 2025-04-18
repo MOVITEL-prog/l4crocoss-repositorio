@@ -5,7 +5,7 @@ Bem-vindo ao repositório oficial da L4CROCOSS!
 Aqui você pode acessar nossos eBooks, portfólios de design, pacotes criativos e mais.
 
 ## Acesso ao site
-[Acesse o site aqui](https://MOVITEL-prog.github.io/l4crocoss-repositorio)
+[Acesse o site aqui](https://MOVITEL-prog.github.io/l4crocoss.com)
 
 ## Conteúdo
 - eBooks para estudantes (Química, Física, Biologia e mais)
