@@ -1,3 +1,4 @@
+![Banner L4CROCOSS](assets/banner.png)
 # L4CROCOSS | Repositório de eBooks e Design
 
 Bem-vindo ao repositório oficial da L4CROCOSS!  
